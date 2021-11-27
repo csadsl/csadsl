@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csadsl&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csadsl&count_private=true&show_icons=true&theme=solarized-light" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csadsl&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csadsl&langs_count=8&theme=solarized-light&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
 </a>
 
 **Skills:**
