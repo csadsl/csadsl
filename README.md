@@ -11,12 +11,15 @@
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=csadsl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="csadsl's github stats" /> </a> 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csadsl&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+
 | ------------- | ------------- |
 
 </p>
+
 <br />
 
 **Skills:**
+
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
